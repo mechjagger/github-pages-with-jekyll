@@ -1,3 +1,8 @@
-# Welcome to my blog
+# New GitHub Page
 
-I'm glad you are here. I plan to talk about ...
+This will be easier to use than SharePoint and easier to find content.
+* Discuss classes in code
+* Publish coding standards, PSR, DRY and SOLID priniciples used
+* Explain folder layout for application
+** explain the permissions required for folders
+
